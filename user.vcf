@@ -12,4 +12,8 @@ item1.ADR;type=WORK;type=pref:;;4609 West US Highway 90\nSan Antonio\, 78237;;;;
 item1.X-ABADR:sg
 item2.URL;type=pref:https://silvereaglebeverages.com
 item2.X-ABLabel:_$!<HomePage>!$_
+item3.URL;type=pref:https://teams.microsoft.com/l/chat/0/0?users=moises.charon@SilverEagleBev.com
+item3.X-ABLabel:_$!<MS Teams>!$_
+item4.URL;type=pref:https://www.linkedin.com/in/moisescharon/
+item4.X-ABLabel:_$!<Linkedin>!$_
 END:VCARD
