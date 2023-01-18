@@ -40,8 +40,8 @@ img.profile-pic {
 }
 
 img.qr-pic {
-	height: 30%;
-	width: 30%;
+	height: 10%;
+	width: 10%;
 	object-fit: cover;
 	
 }
